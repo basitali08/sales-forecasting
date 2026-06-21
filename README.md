@@ -31,7 +31,11 @@ Accurate sales forecasting is critical for inventory management, staffing, and b
 - Achieves **0.89 R² Score** with the best model
 - Generates **30-day future sales predictions**
 
-[![R2-Score-0.89-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sales-forecasting) [![MAE-850-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sales-forecasting) [![RMSE-1150-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sales-forecasting) [![MAPE-8.2%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sales-forecasting) [![Dataset-730_days-blue?style=flat-square&labelColor=1a1a2e&color=0066ff)](https://github.com/basitali08/sales-forecasting)
+[![R2-Score](https://img.shields.io/badge/R2--Score-0.89-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sales-forecasting)
+[![MAE](https://img.shields.io/badge/MAE-850-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sales-forecasting)
+[![RMSE](https://img.shields.io/badge/RMSE-1150-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sales-forecasting)
+[![MAPE](https://img.shields.io/badge/MAPE-8.2%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sales-forecasting)
+[![Dataset](https://img.shields.io/badge/Dataset-730_days-blue?style=flat-square&labelColor=1a1a2e&color=0066ff)](https://github.com/basitali08/sales-forecasting)
 
 ---
 
